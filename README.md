@@ -1,0 +1,2 @@
+# Expense-Tracker
+This is a simple web application which will track your daily expenses in a list so you just need to enter the date, month and year to manage, track and keep a check of all your expenses. The application will also show you a bar chart of your expenses in every month so to analyze in which month you spend more money and in which month you spend nothing. (The application was made with ReactJs)
